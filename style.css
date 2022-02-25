@@ -1,1 +1,87 @@
-
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.navigation-bar {
+  width: 100%;
+  height: 5em;
+  background-color: aqua;
+}
+.navigation-bar a {
+  text-decoration: none;
+  margin-right: 2em;
+  color: black;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  position: relative;
+  top: 20px;
+  left: 900px;
+}
+.navigation-container {
+  width: 100%;
+  height: 50em;
+  background-image: url("img/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.navigation-container h2 {
+  color: white;
+  text-align: center;
+  font-size: 5em;
+  position: relative;
+  top: 2.5em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.goal-img {
+  width: 30%;
+}
+.goal-paragraph {
+  width: 50%;
+  font-size: 20px;
+  position: relative;
+  top: -15em;
+  left: 28em;
+}
+.history-quote {
+  width: 70%;
+  height: 20em;
+  border-radius: 40px;
+  background-color: whitesmoke;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  position: relative;
+  padding-top: 10px;
+  left: 12em;
+}
+.Footer {
+  width: 100%;
+  height: 20em;
+  margin-top: 5em;
+  background-color: #2d2e30;
+  color: white;
+  text-align: center;
+  padding-top: 4em;
+}
+.aim {
+  padding-top: 4%;
+  padding-left: 16%;
+  width: 30%;
+}
+.footer-nav a {
+  text-decoration: none;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  position: relative;
+  top: -17em;
+  left: 52em;
+}
+.contact {
+  position: relative;
+  top: -10em;
+  left: 5em;
+  font-size: 20px;
+}
